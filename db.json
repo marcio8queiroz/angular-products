@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wey Protein",
+      "price": "119.99"
+    },
+    {
+      "id": 2,
+      "name": "Creatina",
+      "price": "99.99"
+    },
+    {
+      "id": 3,
+      "name": "Amino BCAA",
+      "price": "89.99"
+    }
+  ],
+
+  "clientes": [
+    {
+      "id": 1,
+      "name": "stive",
+      "age": "19"
+    },
+    {
+      "id": 2,
+      "name": "july",
+      "age": "21"
+    },
+    {
+      "id": 3,
+      "name": "Amanda",
+      "age": "20"
+    }
+  ]
+}
